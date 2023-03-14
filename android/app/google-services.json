@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "878958314226",
+    "project_id": "ecommerce-a3697",
+    "storage_bucket": "ecommerce-a3697.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:878958314226:android:d7038551636f0dd87a066b",
+        "android_client_info": {
+          "package_name": "com.loginsignup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "878958314226-f05gc3559ohkiavimpel0v5k5u4penk8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAloyOidIUoYsvUtev1vBtINVrKlgbLgc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "878958314226-f05gc3559ohkiavimpel0v5k5u4penk8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

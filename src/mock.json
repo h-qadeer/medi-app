@@ -1,0 +1,124 @@
+{
+  "products": [
+    {
+      "id": 10,
+      "title": "Norvasc",
+      "price": 56,
+      "image": "https://thumbs.dreamstime.com/z/amlodipine-sold-under-brand-name-norvasc-others-amlodipine-sold-under-brand-name-norvasc-others-124342747.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Paracetamol",
+      "price": 250,
+      "image": "https://img.pristyncare.com/static_pages/meftal-page/Dolo2.webp"
+    },
+    {
+      "id": 5,
+      "title": "Risek 40",
+      "price": 128,
+      "image": "https://medicalstore.com.pk/wp-content/uploads/2019/02/Medicalstore.com_.pk-Risek-40mg-Cap-256x256.png"
+    },
+    {
+      "id": 6,
+      "title": "Ninza-7.5 MD",
+      "price": 128,
+      "image": "https://5.imimg.com/data5/SM/AE/MY-7640441/olanzapine-mouth-dissolving-5mg-tablets-500x500.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Arbi D",
+      "price": 122,
+      "image": "https://medicalstore.com.pk/wp-content/uploads/2020/05/18141ARBI-D-12.5MG.png"
+    },
+    {
+      "id": 8,
+      "title": "Diclofenac DHG",
+      "price": 24,
+      "image": "https://vinmec-prod.s3.amazonaws.com/images/20220116_031443_055235_diclofenac-1.max-1800x1800.png"
+    },
+    {
+      "id": 9,
+      "title": "Admit 100",
+      "price": 300,
+      "image": "https://shaigan.com/wp-content/uploads/2019/05/ADMIT-100-8.35.png"
+    },
+    {
+      "id": 3,
+      "title": "Nutrifactor",
+      "price": 200,
+      "image": "https://cdn.shopify.com/s/files/1/0310/5472/5260/products/SleepWell_1024x1024.png?v=1666953204"
+    },
+    {
+      "id": 1,
+      "title": "Panadol",
+      "price": 128,
+      "image": "https://i-cf65.ch-static.com/content/dam/cf-consumer-healthcare/panadol/en_ie/ireland-products/panadol-tablets/MGK5158-GSK-Panadol-Tablets-455x455.png?auto=format"
+    },
+    {
+      "id": 2,
+      "title": "Amoxil 500mg",
+      "price": 18,
+      "image": "https://products.dawaai.pk/800/gskamo43573_1.webp"
+    },
+    {
+      "id": 11,
+      "title": "Norvasc",
+      "price": 56,
+      "image": "https://thumbs.dreamstime.com/z/amlodipine-sold-under-brand-name-norvasc-others-amlodipine-sold-under-brand-name-norvasc-others-124342747.jpg"
+    },
+    {
+      "id": 14,
+      "title": "Paracetamol",
+      "price": 250,
+      "image": "https://img.pristyncare.com/static_pages/meftal-page/Dolo2.webp"
+    },
+    {
+      "id": 18,
+      "title": "Risek 40",
+      "price": 128,
+      "image": "https://medicalstore.com.pk/wp-content/uploads/2019/02/Medicalstore.com_.pk-Risek-40mg-Cap-256x256.png"
+    },
+    {
+      "id": 16,
+      "title": "Ninza-7.5 MD",
+      "price": 128,
+      "image": "https://5.imimg.com/data5/SM/AE/MY-7640441/olanzapine-mouth-dissolving-5mg-tablets-500x500.jpg"
+    },
+    {
+      "id": 17,
+      "title": "Arbi D",
+      "price": 122,
+      "image": "https://medicalstore.com.pk/wp-content/uploads/2020/05/18141ARBI-D-12.5MG.png"
+    },
+    {
+      "id": 18,
+      "title": "Diclofenac DHG",
+      "price": 24,
+      "image": "https://vinmec-prod.s3.amazonaws.com/images/20220116_031443_055235_diclofenac-1.max-1800x1800.png"
+    },
+    {
+      "id": 19,
+      "title": "Admit 100",
+      "price": 300,
+      "image": "https://shaigan.com/wp-content/uploads/2019/05/ADMIT-100-8.35.png"
+    },
+    {
+      "id": 13,
+      "title": "Nutrifactor",
+      "price": 200,
+      "image": "https://cdn.shopify.com/s/files/1/0310/5472/5260/products/SleepWell_1024x1024.png?v=1666953204"
+    },
+    {
+      "id": 101,
+      "title": "Panadol",
+      "price": 128,
+      "image": "https://i-cf65.ch-static.com/content/dam/cf-consumer-healthcare/panadol/en_ie/ireland-products/panadol-tablets/MGK5158-GSK-Panadol-Tablets-455x455.png?auto=format"
+    },
+    {
+      "id": 122,
+      "title": "Amoxil 500mg",
+      "price": 18,
+      "image": "https://products.dawaai.pk/800/gskamo43573_1.webp"
+    }
+  ]
+}
