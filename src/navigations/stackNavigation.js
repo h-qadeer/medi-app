@@ -4,7 +4,6 @@ import Cart from '../pages/cart/Cart';
 import Home from '../pages/home/HomePage';
 import ProductDetail from '../pages/product/ProductDetails';
 import SignIn from '../pages/sign-in/Login';
-import SignUp from '../pages/sign-up/SignUp';
 import {useSelector} from 'react-redux';
 
 const Stack = createStackNavigator();
